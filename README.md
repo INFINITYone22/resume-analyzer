@@ -113,4 +113,4 @@ For major changes, please open an issue first to discuss what you would like to 
 ## 📄 License
 All rights reserved. This code may not be used commercially without explicit permission.
 
-Copyright (c) 2024 [@INFINITYone22](https://github.com/INFINITYone22)
+Copyright (c) 2025 [@INFINITYone22](https://github.com/INFINITYone22)
