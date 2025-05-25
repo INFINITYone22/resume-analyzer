@@ -111,6 +111,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and [CODE_OF_CONDUCT.md](C
 For major changes, please open an issue first to discuss what you would like to change. Contact [@INFINITYone22](https://github.com/INFINITYone22) before starting work on large features or refactors.
 
 ## 📄 License
-All rights reserved. This code may not be used commercially without explicit permission.
-
-Copyright (c) 2025 [@INFINITYone22](https://github.com/INFINITYone22)
+Copyright (c) 2025 [ROHITH GARAPATI](https://github.com/INFINITYone22)
